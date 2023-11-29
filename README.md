@@ -28,9 +28,9 @@
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/steven.png" />
 
 <p>&emsp;&emsp;大家好，我是炸了的米花POPCORNBOOM。</p>
-<p>&emsp;&emsp;热爱编程、摄影、旅行。</p>
-<p>&emsp;&emsp;热爱计算机科学和IT互联网事业，励志成为一名优秀的独立开发者。</p>
-<p>&emsp;&emsp;我们正在让这个世界变得更加美好，通过代码的重复使用和延展构建完美体系。</p>
+<p>&emsp;&emsp;热爱编程、摄影、钻研数学与物理原理。</p>
+<p>&emsp;&emsp;热爱计算机科学，材料科学，基础数学，物理。</p>
+<p>&emsp;&emsp;我正在学习许多学科，我相信学科融合可以为各个学科带来创新的发展，并致力于达到这个目标</p>
 
 </td></tr>
 
@@ -39,7 +39,10 @@
   
 ### 🏢 Work Experience
 
-帮爹写前端XD
+* 开发桌游卡牌生成器
+* 为桌游构架介绍、归档、讨论网站
+* 为应变片测算控制器设计交互界面（前端）
+* 为IYPT竞赛团队编写模拟演示软件
 
   
 </td></tr>
@@ -50,26 +53,10 @@
 
 <div align="center" >
 
-```mermaid
-mindmap
-  root((炸了的米花))
-    编程
-      C# WPF
-      React
-      Golang
-    摄影
-      人文
-      建筑
-      风景
-    旅行
-      苏州
-    阅读
-      计算机技术
-```
-
 <!--  skill badge 技能徽章 -->
 💪 正在学习
 
+![C Sharp Badge](https://img.shields.io/badge/C%20Sharp-239120?logo=csharp&logoColor=fff&style=flat)
 ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat)
 ![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat)
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat)
@@ -80,7 +67,7 @@ mindmap
 🧠 计划学习
 
 
-![C Sharp Badge](https://img.shields.io/badge/C%20Sharp-239120?logo=csharp&logoColor=fff&style=flat)
+
 ![TypeScript Badge](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=flat)
 ![Node.js Badge](https://img.shields.io/badge/Node.js-393?logo=nodedotjs&logoColor=fff&style=flat)
 ![Android Badge](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=fff&style=flat)
