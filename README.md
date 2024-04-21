@@ -16,7 +16,7 @@
     <a href="https://popcornboom.github.io/"><img src="https://img.shields.io/badge/Website-博客-blue" /></a>&emsp;
     <a href="https://space.bilibili.com/271218438"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
 
-#  🙋 Hello
+#  🙋 你好呀
 
 <table>
 <tr><td>
@@ -27,7 +27,7 @@
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/steven.png" />
 
 <p>&emsp;&emsp;大家好，我是炸了的米花POPCORNBOOM。</p>
-<p>&emsp;&emsp;热爱编程、摄影、钻研数学与物理原理。</p>
+<p>&emsp;&emsp;热爱编程、摄影; 爱好钻研数学与物理原理。</p>
 <p>&emsp;&emsp;热爱计算机科学，材料科学，基础数学，物理。</p>
 <p>&emsp;&emsp;我正在学习许多学科，我相信学科融合可以为各个学科带来创新的发展，并致力于达到这个目标</p>
 
@@ -51,7 +51,7 @@
 <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
 
 <div align="center" >
-
+<div align="center" >
 <!--  skill badge 技能徽章 -->
 💪 正在学习
 
@@ -84,10 +84,12 @@
 <!-- programming tool icon 编程工具图标 -->
 <img src="https://skillicons.dev/icons?i=blender,dotnet,cs,unity,unreal,visualstudio,vscode,electron,js,ts,discord,github,git,flutter,py,react,pytorch,md,androidstudio" /><br>
 
-
 <!-- Quotes 名人名言 -->
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" /><br>
-  
+
+<!-- ########################################## 分割 ########################################## -->
+<img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
+
 <!-- GitHub 奖杯🏆 -->
 <img  src="https://github-profile-trophy.vercel.app/?username=POPCORNBOOM&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /><br>
 
