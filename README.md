@@ -22,21 +22,22 @@
 <tr><td>
 
 <!-- About me 关于我 -->
-### 🤺 About Me
+### 🤺 关于我 About Me
 
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/steven.png" />
 
 <p>&emsp;&emsp;大家好，我是炸了的米花POPCORNBOOM。</p>
 <p>&emsp;&emsp;热爱编程、摄影; 爱好钻研数学与物理原理。</p>
-<p>&emsp;&emsp;热爱计算机科学，材料科学，基础数学，物理。</p>
-<p>&emsp;&emsp;我正在学习许多学科，我相信学科融合可以为各个学科带来创新的发展，并致力于达到这个目标</p>
+<p>&emsp;&emsp;工作狂。狂起来可以忘记吃喝拉撒等生理需求的工作狂</p>
+<p>&emsp;&emsp;我正在学习许多学科，计算机科学，材料科学，基础数学，物理，我相信学科融合可以为各个学科带来创新的发展，并致力于达到这个目标</p>
 
+<p>更多信息点击<a href="https://popcornboom.github.io/">这里</a>&emsp;</p>
 </td></tr>
 
 <tr>
 <td>
   
-### 🏢 Work Experience
+### 🏢 工作经验 Work Experience
 
 * 开发桌游卡牌生成器
 * 为桌游构架介绍、归档、讨论网站
@@ -53,7 +54,7 @@
 <div align="center" >
 <div align="center" >
 <!--  skill badge 技能徽章 -->
-💪 正在学习
+💪 正在学习 Studying
 
 ![C Sharp Badge](https://img.shields.io/badge/C%20Sharp-239120?logo=csharp&logoColor=fff&style=flat)
 ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat)
@@ -63,7 +64,7 @@
 ![React Badge](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=flat)
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat)
   
-🧠 计划学习
+🧠 计划学习 Planning
 
 
 
@@ -72,7 +73,7 @@
 ![Android Badge](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=fff&style=flat)
 
 
-🧰 常用的工具
+🧰 常用的工具 Tools
 
 ![Xiaomi Badge](https://img.shields.io/badge/Xiaomi-FF6900?logo=xiaomi&logoColor=fff&style=flat)
 ![Windows Badge](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=fff&style=flat)
