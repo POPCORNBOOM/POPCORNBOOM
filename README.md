@@ -3,7 +3,7 @@
   
   <!-- dynamic typing effect 动态打字效果 -->
   <div align="center">
-    <a href="https://blog.sunguoqi.com/">
+    <a href="https://popcornboom.github.io/">
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=POPCORNBOOM;炸了的米花&center=true&size=27" alt="Typing SVG" />
     </a>
   </div>
@@ -41,6 +41,8 @@
 
 * 独立开发 [EzCard](https://github.com/POPCORNBOOM/EZCardDN-demo)——旨在为生产级桌游卡牌开发者和个人创意服务的桌游集成开发器
 * 独立开发 EZCard 前身 [CardEditor](https://github.com/POPCORNBOOM/CardEditor)——简易的批量卡牌生成器
+* 独立开发 [EZHolo简单刮擦](https://github.com/POPCORNBOOM/EZHolodotNet)——基于深度估算轻易从平面图像/照片创建刮擦全息路径
+* 推导 [M维超立方体中含有N维超立方体个数](https://github.com/POPCORNBOOM/High-DimensionalHypercubeCalculator)
 * 为深圳中学自制桌游 [逆时巫师ReverseWizard](https://www.reversewizard.site/) 构架介绍、归档、说明网站，卡牌生成使用 [CardEditor](https://github.com/POPCORNBOOM/CardEditor)
 * 为应变片测算控制器设计交互界面（前端）
 * 为IYPT竞赛团队编写模拟演示软件 [三面骰模拟统计器](https://github.com/POPCORNBOOM/3SidedDice-Coin-with-Unity3D)
