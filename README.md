@@ -39,10 +39,11 @@
   
 ### 🏢 工作经验 Work Experience
 
-* 开发桌游卡牌生成器
-* 为桌游构架介绍、归档、讨论网站
+* 独立开发 [EzCard](https://github.com/POPCORNBOOM/EZCardDN-demo)——旨在为生产级桌游卡牌开发者和个人创意服务的桌游集成开发器
+* 独立开发 EZCard 前身 [CardEditor](https://github.com/POPCORNBOOM/CardEditor)——简易的批量卡牌生成器
+* 为深圳中学自制桌游 [逆时巫师ReverseWizard](https://www.reversewizard.site/) 构架介绍、归档、说明网站，卡牌生成使用 [CardEditor](https://github.com/POPCORNBOOM/CardEditor)
 * 为应变片测算控制器设计交互界面（前端）
-* 为IYPT竞赛团队编写模拟演示软件
+* 为IYPT竞赛团队编写模拟演示软件 [三面骰模拟统计器](https://github.com/POPCORNBOOM/3SidedDice-Coin-with-Unity3D)
 
   
 </td></tr>
