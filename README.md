@@ -39,13 +39,15 @@
   
 ### 🏢 工作经验 Work Experience
 
-* 独立开发 [EzCard](https://github.com/POPCORNBOOM/EZCardDN-demo)——旨在为生产级桌游卡牌开发者和个人创意服务的桌游集成开发器
-* 独立开发 EZCard 前身 [CardEditor](https://github.com/POPCORNBOOM/CardEditor)——简易的批量卡牌生成器
-* 独立开发 [EZHolo简单刮擦](https://github.com/POPCORNBOOM/EZHolodotNet)——基于深度估算轻易从平面图像/照片创建刮擦全息路径
-* 推导 [M维超立方体中含有N维超立方体个数](https://github.com/POPCORNBOOM/High-DimensionalHypercubeCalculator)
-* 为深圳中学自制桌游 [逆时巫师ReverseWizard](https://www.reversewizard.site/) 构架介绍、归档、说明网站，卡牌生成使用 [CardEditor](https://github.com/POPCORNBOOM/CardEditor)
-* 为应变片测算控制器设计交互界面（前端）
-* 为IYPT竞赛团队编写模拟演示软件 [三面骰模拟统计器](https://github.com/POPCORNBOOM/3SidedDice-Coin-with-Unity3D)
+|时间|项目|描述|
+|---|---|---|
+|大二|独立开发 [EZHolo简单刮擦](https://github.com/POPCORNBOOM/EZHolodotNet)|基于深度估算轻易从平面图像/照片创建刮擦全息路径|
+|高三-Now| 独立开发 [EzCard](https://github.com/POPCORNBOOM/EZCardDN-demo)|旨在为生产级桌游卡牌开发者和个人创意服务的桌游集成开发器|
+|高三|推导 [M维超立方体中含有N维超立方体个数](https://github.com/POPCORNBOOM/High-DimensionalHypercubeCalculator)||
+|高二-高三|独立开发 [CardEditor](https://github.com/POPCORNBOOM/CardEditor)|EZCard 的前身，简易的批量卡牌生成器|
+|高二|构架 [逆时巫师](https://www.reversewizard.site/) 官方网站|为深圳中学自制桌游 [逆时巫师 ReverseWizard](https://www.reversewizard.site/) 构架介绍、归档、说明网站，卡牌生成使用 [CardEditor](https://github.com/POPCORNBOOM/CardEditor)|
+|高二|为IYPT竞赛团队编写模拟演示软件 [三面骰模拟统计器](https://github.com/POPCORNBOOM/3SidedDice-Coin-with-Unity3D)||
+|初二|为应变片测算控制器设计交互界面（前端）||
 
   
 </td></tr>
