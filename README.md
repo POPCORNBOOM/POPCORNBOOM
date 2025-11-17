@@ -18,9 +18,9 @@
 
 <img align="right" width="88" src="https://popcornboom.github.io/images/1.jpg" />
 
-<p>&emsp;&emsp;大家好，我是炸了的米花POPCORNBOOM。</p>
+<p>&emsp;&emsp;你好，我是Yigu(POPCORNBOOM)。</p>
 <p>&emsp;&emsp;热爱编程、摄影; 爱好钻研数学与物理原理。</p>
-<p>&emsp;&emsp;工作狂。狂起来可以忘记吃喝拉撒等生理需求的工作狂。</p>
+<p>&emsp;&emsp;工作狂。狂起来可以忘记吃喝拉撒等生理需求的工作狂。（没开玩笑我说真的）</p>
 <p>&emsp;&emsp;我正在学习许多学科，MCS，MSE-Physics，我相信学科融合可以为各个学科带来创新的发展，并致力于达到这个目标</p>
 
 <p>更多信息点击<a href="https://popcornboom.github.io/">这里</a>&emsp;</p>
@@ -34,7 +34,7 @@
 |时间|项目|描述|
 |---|---|---|
 |大二|独立开发 [EZHolo简单刮擦](https://github.com/POPCORNBOOM/EZHolodotNet)|基于深度估算轻易从平面图像/照片创建刮擦全息路径|
-|高三-Now| 独立开发 [EzCard](https://github.com/POPCORNBOOM/EZCardDN-demo)|旨在为生产级桌游卡牌开发者和个人创意服务的桌游集成开发器|
+|高三-大二| 独立开发 [EzCard](https://github.com/POPCORNBOOM/EZCardDN-demo)|旨在为生产级桌游卡牌开发者和个人创意服务的桌游集成开发器|
 |高三|推导 [M维超立方体中含有N维超立方体个数](https://github.com/POPCORNBOOM/High-DimensionalHypercubeCalculator)||
 |高二-高三|独立开发 [CardEditor](https://github.com/POPCORNBOOM/CardEditor)|EZCard 的前身，简易的批量卡牌生成器|
 |高二|构架 [逆时巫师](https://www.reversewizard.site/) 官方网站|为深圳中学自制桌游 [逆时巫师 ReverseWizard](https://www.reversewizard.site/) 构架介绍、归档、说明网站，卡牌生成使用 [CardEditor](https://github.com/POPCORNBOOM/CardEditor)|
