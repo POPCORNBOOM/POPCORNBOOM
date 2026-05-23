@@ -37,13 +37,16 @@
         <p>&emsp;&emsp;我爱好个人App开发、摄影、数学与物理原理研究</p>
         <p>&emsp;&emsp;我是一位专注的工作狂，进入心流的样子很可怕😡</p>
         <p>&emsp;&emsp;我正在学习材料科学与工程、物理学等多学科知识</p>
-        <p>&emsp;&emsp;<strong>“我相信学科融合能带来意想不到的创新，并致力于实现这一目标”</strong></p>
+        <br/>
+        <p>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<strong>“我相信学科融合能带来意想不到的创新，并致力于实现这一目标”</strong>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</p>
       </td>
       <td>
         <div>
-          <img align="center" width="120" src="https://cdn.jsdelivr.net/gh/POPCORNBOOM/POPCORNBOOM/assets/images/head.webp" alt="个人头像"/>
+          <img align="center" width="180" src="https://cdn.jsdelivr.net/gh/POPCORNBOOM/POPCORNBOOM/assets/images/head.webp" alt="个人头像"/>
           <h3 align="center">Yigu Wang</h3>
-          <h4 align="center">2004 年生人</h4>
+          <p align="center">04 年生</p>
+          <p align="center">独立开发者、实验室助理</p>
+          <p align="center">学生</p>
         </div>
       </td>
     </tr>
