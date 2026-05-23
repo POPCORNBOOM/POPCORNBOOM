@@ -22,7 +22,7 @@
 
 <p>&emsp;&emsp;我正在学习材料科学与工程、物理学等多学科知识</p>
 
-<p>&emsp;&emsp;<strong>我相信学科融合能带来意想不到的创新，并致力于实现这一目标</strong></p>
+<p>&emsp;&emsp;<strong>“我相信学科融合能带来意想不到的创新，并致力于实现这一目标”</strong></p>
 
 <!-- 更多信息请访问我的[个人网站](https://popcornboom.github.io/) -->
 
