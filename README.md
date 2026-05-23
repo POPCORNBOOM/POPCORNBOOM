@@ -1,10 +1,16 @@
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" width="100%" alt="编程动画" /><br>  
-  <h1>🙋 你好，我是 Yigu Wang (POPCORNBOOM)</h1>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);见到你很高兴!&center=true&size=27)](https://git.io/typing-svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/POPCORNBOOM/POPCORNBOOM/assets/images/coding.gif" />
+  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/POPCORNBOOM/POPCORNBOOM/assets/images/developer.svg" height="225px" />
+  <img src="https://cdn.jsdelivr.net/gh/POPCORNBOOM/POPCORNBOOM/assets/images/coding.gif" />
+</picture>
+
   <div align="center">
     <a href="https://popcornboom.github.io/"><img src="https://img.shields.io/badge/Website-博客-blue" alt="个人博客" /></a>&emsp;
     <a href="https://space.bilibili.com/271218438"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" alt="B站主页" /></a>&emsp;
-    <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-邮箱-red" alt="邮箱联系" /></a>
+    <a href="mailto:2602977906@qq.com"><img src="https://img.shields.io/badge/Email-邮箱-red" alt="邮箱联系" /></a>
   </div>
 
 </div>
@@ -14,19 +20,19 @@
 <table>
 <tr><td>
 
-### 🤺 关于我
+### 🤺 About Me
 
 <img align="right" width="120" src="https://popcornboom.github.io/images/1.jpg" alt="个人头像" style="border-radius: 30%;" />
 
-&emsp;&emsp;哈咯！我是Yigu Wang（POPCORNBOOM），欢迎来到我的个人Profile！
+<p>&emsp;&emsp;哈咯！我是Yigu Wang（POPCORNBOOM），欢迎来到我的个人Profile！</p>
 
-&emsp;&emsp;我爱好个人App开发、摄影、数学与物理原理研究
+<p>&emsp;&emsp;我爱好个人App开发、摄影、数学与物理原理研究</p>
 
-&emsp;&emsp;我是一位专注的工作狂，进入心流的样子很可怕😡
+<p>&emsp;&emsp;我是一位专注的工作狂，进入心流的样子很可怕😡</p>
 
-&emsp;&emsp;我正在学习材料科学与工程、物理学等多学科知识
+<p>&emsp;&emsp;我正在学习材料科学与工程、物理学等多学科知识</p>
 
-&emsp;&emsp;我相信学科融合能带来意想不到的创新，并致力于实现这一目标
+<p>&emsp;&emsp;<strong>我相信学科融合能带来意想不到的创新，并致力于实现这一目标</strong></p>
 
 > 更多信息请访问我的[个人网站](https://popcornboom.github.io/)
 
@@ -78,6 +84,27 @@
 
 ### 📊 GitHub 统计
 
+<img align="left" width="150" src="https://cdn.jsdelivr.net/gh/POPCORNBOOM/POPCORNBOOM/assets/images/left.png" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=POPCORNBOOM&theme=dark&hide_border=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=POPCORNBOOM&theme=light&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=POPCORNBOOM&theme=dark&hide_border=true" />
+</picture>
+<img align="right" width="150"  src="https://cdn.jsdelivr.net/gh/POPCORNBOOM/POPCORNBOOM/assets/images/right.png" />
+
+<img src="https://cdn.jsdelivr.net/gh/POPCORNBOOM/POPCORNBOOM/github-metrics/base.svg" />
+
+<table>
+  <tr>
+    <td>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=POPCORNBOOM&theme=xcode&bg_color=FF000000&hide_border=true" />
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=POPCORNBOOM&theme=xcode&bg_color=FF000000&color=000000&hide_border=true" />
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=POPCORNBOOM&theme=xcode&bg_color=FF000000&hide_border=true" />
+      </picture>
+  </tr>
+</table>
+
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=POPCORNBOOM&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" alt="GitHub奖杯" /><br><br>
   
@@ -86,32 +113,48 @@
 </div>
 
 </tr></td>
-<tr><td>
+</table>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/POPCORNBOOM/POPCORNBOOM/profile-3d-contrib/profile-night-rainbow.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/POPCORNBOOM/POPCORNBOOM/profile-3d-contrib/profile-gitblock.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/POPCORNBOOM/POPCORNBOOM/profile-3d-contrib/profile-night-rainbow.svg" />
+</picture>
+
+</div>
+
+<div align="center">
+
+<table>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/POPCORNBOOM/POPCORNBOOM/github-metrics/people.followers.svg" alt="people.followers" /></td>
+  </tr>
+</table>
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="名言警句" /><br>
 </div>
-</table>
+
 
 <table>
   <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/github-metrics/languages.indepth.svg" alt="languages.indepth" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/github-metrics/reactions.svg" alt="reactions" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/POPCORNBOOM/POPCORNBOOM/github-metrics/languages.indepth.svg" alt="languages.indepth" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/POPCORNBOOM/POPCORNBOOM/github-metrics/reactions.svg" alt="reactions" /></td>
   </tr>
   <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/github-metrics/followup.indepth.svg" alt="followup.indepth" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/github-metrics/repositories.pinned.svg" alt="repositories.pinned" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/POPCORNBOOM/POPCORNBOOM/github-metrics/followup.indepth.svg" alt="followup.indepth" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/POPCORNBOOM/POPCORNBOOM/github-metrics/repositories.pinned.svg" alt="repositories.pinned" /></td>
   </tr>
   <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/github-metrics/wakatime.svg" alt="wakatime" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/github-metrics/stackoverflow.svg" alt="stackoverflow" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/POPCORNBOOM/POPCORNBOOM/github-metrics/wakatime.svg" alt="wakatime" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/POPCORNBOOM/POPCORNBOOM/github-metrics/stackoverflow.svg" alt="stackoverflow" /></td>
   </tr>
   <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/github-metrics/stars.svg" alt="stars" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/github-metrics/stargazers.chartist.svg" alt="stargazers.chartist" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/POPCORNBOOM/POPCORNBOOM/github-metrics/stars.svg" alt="stars" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/POPCORNBOOM/POPCORNBOOM/github-metrics/stargazers.chartist.svg" alt="stargazers.chartist" /></td>
   </tr>
   <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/github-metrics/isocalendar.fullyear.svg" alt="isocalendar.fullyear" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/github-metrics/calendar.full.svg" alt="calendar.full" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/POPCORNBOOM/POPCORNBOOM/github-metrics/isocalendar.fullyear.svg" alt="isocalendar.fullyear" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/POPCORNBOOM/POPCORNBOOM/github-metrics/calendar.full.svg" alt="calendar.full" /></td>
   </tr>
 </table>
