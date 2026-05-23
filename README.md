@@ -38,7 +38,7 @@
         <p>&emsp;&emsp;我是一位专注的工作狂，进入心流的样子很可怕😡</p>
         <p>&emsp;&emsp;我正在学习材料科学与工程、物理学等多学科知识</p>
         <br/>
-        <p>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<strong>“我相信学科融合能带来意想不到的创新，并致力于实现这一目标”</strong>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</p>
+        <p>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<strong>“我相信学科融合能带来意想不到的创新，并致力于实现这一目标”</strong>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</p>
       </td>
       <td>
         <div>
