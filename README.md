@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&width=512&lines=Trace.WriteLine(%22Hello%20There%22);见到你很高兴!;"10000"[0];万里挑一&center=true&size=27&color=5197AB)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&width=512&lines=>Trace.WriteLine(%22Hello%20There%22);>见到你很高兴!;>"10000"[0];>万里挑一&center=true&size=27&color=5197AB)](https://git.io/typing-svg)
 
 
 
