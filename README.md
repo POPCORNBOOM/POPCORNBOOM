@@ -4,8 +4,8 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/POPCORNBOOM/POPCORNBOOM/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/POPCORNBOOM/POPCORNBOOM/profile-snake-contrib/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/POPCORNBOOM/POPCORNBOOM/profile-snake-contrib/github-contribution-grid-snake-dark.gif" />
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/POPCORNBOOM/POPCORNBOOM/profile-snake-contrib/github-contribution-grid-snake.gif" />
     <img src="https://cdn.jsdelivr.net/gh/POPCORNBOOM/POPCORNBOOM/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
   </picture>
 </div>
