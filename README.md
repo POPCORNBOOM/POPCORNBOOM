@@ -115,10 +115,6 @@
     <td><img src="https://cdn.jsdelivr.net/gh/POPCORNBOOM/POPCORNBOOM/github-metrics/repositories.pinned.svg" alt="repositories.pinned" /></td>
   </tr>
   <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/POPCORNBOOM/POPCORNBOOM/github-metrics/wakatime.svg" alt="wakatime" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/POPCORNBOOM/POPCORNBOOM/github-metrics/stackoverflow.svg" alt="stackoverflow" /></td>
-  </tr>
-  <tr>
     <td><img src="https://cdn.jsdelivr.net/gh/POPCORNBOOM/POPCORNBOOM/github-metrics/stars.svg" alt="stars" /></td>
     <td><img src="https://cdn.jsdelivr.net/gh/POPCORNBOOM/POPCORNBOOM/github-metrics/stargazers.chartist.svg" alt="stargazers.chartist" /></td>
   </tr>
