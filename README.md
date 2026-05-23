@@ -1,30 +1,20 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);见到你很高兴!&center=true&size=27)](https://git.io/typing-svg)
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/POPCORNBOOM/POPCORNBOOM/assets/images/coding.gif" />
-  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/POPCORNBOOM/POPCORNBOOM/assets/images/developer.svg" height="225px" />
-  <img src="https://cdn.jsdelivr.net/gh/POPCORNBOOM/POPCORNBOOM/assets/images/coding.gif" />
-</picture>
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);见到你很高兴!;test&center=true&size=27&color=5197AB)](https://git.io/typing-svg)
   <div align="center">
     <a href="https://popcornboom.github.io/"><img src="https://img.shields.io/badge/Website-博客-blue" alt="个人博客" /></a>&emsp;
     <a href="https://space.bilibili.com/271218438"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" alt="B站主页" /></a>&emsp;
     <a href="mailto:2602977906@qq.com"><img src="https://img.shields.io/badge/Email-邮箱-red" alt="邮箱联系" /></a>
   </div>
-
 </div>
 
 # Hello
 
-<table>
-<tr><td>
+### 🤺 关于我
 
-### 🤺 About Me
+<img align="right" width="120" src="https://popcornboom.github.io/images/1.jpg" alt="个人头像"/>
 
-<img align="right" width="120" src="https://popcornboom.github.io/images/1.jpg" alt="个人头像" style="border-radius: 30%;" />
-
-<p>&emsp;&emsp;哈咯！我是Yigu Wang（POPCORNBOOM），欢迎来到我的个人Profile！</p>
+<p>&emsp;&emsp;哈咯！我是 Yigu Wang，欢迎来到我的个人Profile！</p>
 
 <p>&emsp;&emsp;我爱好个人App开发、摄影、数学与物理原理研究</p>
 
@@ -34,10 +24,9 @@
 
 <p>&emsp;&emsp;<strong>我相信学科融合能带来意想不到的创新，并致力于实现这一目标</strong></p>
 
-> 更多信息请访问我的[个人网站](https://popcornboom.github.io/)
+<!-- 更多信息请访问我的[个人网站](https://popcornboom.github.io/) -->
 
-</tr></td>
-<tr><td>
+
 
 ### 🏢 项目经验
 
@@ -52,16 +41,17 @@
 | 高二 | [三面骰模拟统计器](https://github.com/POPCORNBOOM/3SidedDice-Coin-with-Unity3D) | IYPT竞赛团队模拟演示软件 | Unity3D、C# |
 | 初二 | 应变片测算控制器界面 | 为控制器设计前端交互界面 | Winform |
 
-</tr></td>
-<tr><td>
-
 ### 💻 技术栈
 
-* 已掌握&emsp;&emsp;&emsp;
+<div align="center">
+  
+<p>🥰 掌握</p>
+  
 ![C#](https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white&style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
 
-* 正在学习&emsp;&emsp;
+<p>📖 学习中</p>
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge)
@@ -69,21 +59,21 @@
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=white&style=for-the-badge)
 ![Vuetify](https://img.shields.io/badge/vuetify-1867C0?logo=vuetify&logoColor=white&style=for-the-badge)
 
-* 计划学习&emsp;&emsp;
+<p>📅 计划中</p>
+
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
 
+</div>
 
+### 🔧 工具
 
- 开发工具
 <div align="center">
   <img src="https://skillicons.dev/icons?i=visualstudio,dotnet,cs,opencv,vscode,py,pytorch,blender,unity,js,github,react,md" alt="技术图标" />
 </div>
 
-</tr></td>
-<tr><td>
-
 ### 📊 GitHub 统计
 
+<div>
 <img align="left" width="150" src="https://cdn.jsdelivr.net/gh/POPCORNBOOM/POPCORNBOOM/assets/images/left.png" />
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=POPCORNBOOM&theme=dark&hide_border=true" />
@@ -93,27 +83,11 @@
 <img align="right" width="150"  src="https://cdn.jsdelivr.net/gh/POPCORNBOOM/POPCORNBOOM/assets/images/right.png" />
 
 <img src="https://cdn.jsdelivr.net/gh/POPCORNBOOM/POPCORNBOOM/github-metrics/base.svg" />
-
-<table>
-  <tr>
-    <td>
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=POPCORNBOOM&theme=xcode&bg_color=FF000000&hide_border=true" />
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=POPCORNBOOM&theme=xcode&bg_color=FF000000&color=000000&hide_border=true" />
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=POPCORNBOOM&theme=xcode&bg_color=FF000000&hide_border=true" />
-      </picture>
-  </tr>
-</table>
-
+</div>
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=POPCORNBOOM&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" alt="GitHub奖杯" /><br><br>
-  
-  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=POPCORNBOOM&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" />
-  <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=POPCORNBOOM&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
 </div>
 
-</tr></td>
-</table>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/POPCORNBOOM/POPCORNBOOM/profile-3d-contrib/profile-night-rainbow.svg" />
@@ -121,20 +95,7 @@
   <img src="https://cdn.jsdelivr.net/gh/POPCORNBOOM/POPCORNBOOM/profile-3d-contrib/profile-night-rainbow.svg" />
 </picture>
 
-</div>
-
-<div align="center">
-
-<table>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/POPCORNBOOM/POPCORNBOOM/github-metrics/people.followers.svg" alt="people.followers" /></td>
-  </tr>
-</table>
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="名言警句" /><br>
-</div>
-
+<img src="https://cdn.jsdelivr.net/gh/POPCORNBOOM/POPCORNBOOM/github-metrics/people.followers.svg" alt="people.followers" />
 
 <table>
   <tr>
