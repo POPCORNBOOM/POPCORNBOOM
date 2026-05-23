@@ -2,13 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&width=512&lines=Trace.WriteLine(%22Hello%20There%22);见到你很高兴!;"10000"[0];万里挑一&center=true&size=27&color=5197AB)](https://git.io/typing-svg)
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/POPCORNBOOM/POPCORNBOOM/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/POPCORNBOOM/POPCORNBOOM/profile-snake-contrib/github-contribution-grid-snake.svg" />
-    <img src="https://cdn.jsdelivr.net/gh/POPCORNBOOM/POPCORNBOOM/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
-  </picture>
-</div>
+
 
   <div align="center">
     <!--<a href="https://popcornboom.github.io/"><img src="https://img.shields.io/badge/Website-博客-blue" alt="个人博客" /></a>&emsp;--><br/>
@@ -19,6 +13,13 @@
     <a href="http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=MJD18YzJxqft6Q6rKX-sSNiLrtmqVQmJ&authKey=TM3En%2BxxzFeqimSCUhG%2F5VLmfRDeXtnfm1h6P7cwfoGR6bVXkXk2cYm%2BOG0MHuJ8&noverify=0&group_code=567915181"><img src="https://img.shields.io/badge/%E4%B8%8E%201230%20%E4%BA%BA%E4%B8%80%E8%B5%B7%E8%AE%A8%E8%AE%BA-EZCard%20%E6%A1%8C%E6%B8%B8%E4%BA%A4%E6%B5%81%E7%BE%A4%E2%85%A0?logo=qq&logoColor=%23F0582F&label=EZCard%20%E6%A1%8C%E6%B8%B8%E4%BA%A4%E6%B5%81%E7%BE%A4%E2%85%A0&labelColor=%23336DF3&color=white" alt="EZCard 桌游交流群" /></a>&emsp;
     <a href="http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=b2e5QJgwoLnR-8eTV_UxYL0YJBKfPhRn&authKey=1JN8VfJV1vi4JZp2%2BF9qvmbT7g%2FX4OqhrrQWVFXSxYsM9iE3uG8S3W8MksDHxheO&noverify=0&group_code=825370141"><img src="https://img.shields.io/badge/%E4%B8%8E%20172%20%E4%BA%BA%E4%B8%80%E8%B5%B7%E8%AE%A8%E8%AE%BA-EZHolo%E5%88%AE%E6%93%A6%E5%85%A8%E6%81%AF%E4%BA%A4%E6%B5%81%E7%BE%A4?logo=qq&logoColor=%23FECC02&label=EZCard%20%E6%A1%8C%E6%B8%B8%E4%BA%A4%E6%B5%81%E7%BE%A4%E2%85%A0&labelColor=%23FE0A01&color=white" alt="EZHolo刮擦全息交流群" /></a>
   </div>
+  <div align="center">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="/profile-snake-contrib/github-contribution-grid-snake.svg" />
+      <img src="/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+    </picture>
+  </div>
 </div>
 
 
@@ -28,17 +29,28 @@
 
 ### 🤺 关于我
 
-<img align="right" width="120" src="https://cdn.jsdelivr.net/gh/POPCORNBOOM/POPCORNBOOM/assets/images/head.webp" alt="个人头像"/>
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <p>&emsp;&emsp;<strong>哈咯！</strong>我是 Yigu Wang，欢迎来到我的个人Profile！</p>
+        <p>&emsp;&emsp;我爱好个人App开发、摄影、数学与物理原理研究</p>
+        <p>&emsp;&emsp;我是一位专注的工作狂，进入心流的样子很可怕😡</p>
+        <p>&emsp;&emsp;我正在学习材料科学与工程、物理学等多学科知识</p>
+        <p>&emsp;&emsp;<strong>“我相信学科融合能带来意想不到的创新，并致力于实现这一目标”</strong></p>
+      </td>
+      <td>
+        <div>
+          <img align="center" width="120" src="https://cdn.jsdelivr.net/gh/POPCORNBOOM/POPCORNBOOM/assets/images/head.webp" alt="个人头像"/>
+          <h3 align="center">Yigu Wang</h3>
+          <h4 align="center">2004 年生人</h4>
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
 
-<p>&emsp;&emsp;哈咯！我是 Yigu Wang，欢迎来到我的个人Profile！</p>
 
-<p>&emsp;&emsp;我爱好个人App开发、摄影、数学与物理原理研究</p>
-
-<p>&emsp;&emsp;我是一位专注的工作狂，进入心流的样子很可怕😡</p>
-
-<p>&emsp;&emsp;我正在学习材料科学与工程、物理学等多学科知识</p>
-
-<p>&emsp;&emsp;<strong>“我相信学科融合能带来意想不到的创新，并致力于实现这一目标”</strong></p>
 
 <!-- 更多信息请访问我的[个人网站](https://popcornboom.github.io/) -->
 
