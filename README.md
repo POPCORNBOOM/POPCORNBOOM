@@ -2,11 +2,16 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&width=512&lines=Trace.WriteLine(%22Hello%20There%22);见到你很高兴!;"10000"[0];万里挑一&center=true&size=27&color=5197AB)](https://git.io/typing-svg)
   <div align="center">
-    <a href="https://popcornboom.github.io/"><img src="https://img.shields.io/badge/Website-博客-blue" alt="个人博客" /></a>&emsp;
-    <a href="https://space.bilibili.com/271218438"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" alt="B站主页" /></a>&emsp;
-    <a href="mailto:2602977906@qq.com"><img src="https://img.shields.io/badge/Email-邮箱-red" alt="邮箱联系" /></a>
+    <!--<a href="https://popcornboom.github.io/"><img src="https://img.shields.io/badge/Website-博客-blue" alt="个人博客" /></a>&emsp;--><br/>
+    <a href="mailto:2602977906@qq.com"><img src="https://img.shields.io/badge/Email-邮箱-red" alt="邮箱联系" /></a>&emsp;
+    <a href="https://github.com/POPCORNBOOM"><img src="https://img.shields.io/github/followers/POPCORNBOOM" alt="Github" /></a>&emsp;
+    <a href="https://space.bilibili.com/271218438"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.bilibili.com%2Fx%2Frelation%2Fstat%3Fvmid%3D271218438&query=data.follower&logo=bilibili&logoColor=white&label=Bilibili%20%E7%B2%89%E4%B8%9D&labelColor=%23F37697&color=white" alt="Bilibili fans" /></a>
+    <br/>
+    <a href="http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=MJD18YzJxqft6Q6rKX-sSNiLrtmqVQmJ&authKey=TM3En%2BxxzFeqimSCUhG%2F5VLmfRDeXtnfm1h6P7cwfoGR6bVXkXk2cYm%2BOG0MHuJ8&noverify=0&group_code=567915181"><img src="https://img.shields.io/badge/%E4%B8%8E%201230%20%E4%BA%BA%E4%B8%80%E8%B5%B7%E8%AE%A8%E8%AE%BA-EZCard%20%E6%A1%8C%E6%B8%B8%E4%BA%A4%E6%B5%81%E7%BE%A4%E2%85%A0?logo=qq&logoColor=%23F0582F&label=EZCard%20%E6%A1%8C%E6%B8%B8%E4%BA%A4%E6%B5%81%E7%BE%A4%E2%85%A0&labelColor=%23336DF3&color=white" alt="EZCard 桌游交流群" /></a>&emsp;
+    <a href="http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=b2e5QJgwoLnR-8eTV_UxYL0YJBKfPhRn&authKey=1JN8VfJV1vi4JZp2%2BF9qvmbT7g%2FX4OqhrrQWVFXSxYsM9iE3uG8S3W8MksDHxheO&noverify=0&group_code=825370141"><img src="https://img.shields.io/badge/%E4%B8%8E%20172%20%E4%BA%BA%E4%B8%80%E8%B5%B7%E8%AE%A8%E8%AE%BA-EZHolo%E5%88%AE%E6%93%A6%E5%85%A8%E6%81%AF%E4%BA%A4%E6%B5%81%E7%BE%A4?logo=qq&logoColor=%23FECC02&label=EZCard%20%E6%A1%8C%E6%B8%B8%E4%BA%A4%E6%B5%81%E7%BE%A4%E2%85%A0&labelColor=%23FE0A01&color=white" alt="EZHolo刮擦全息交流群" /></a>
   </div>
 </div>
+
 
 <h1>Hello</h1>
 
