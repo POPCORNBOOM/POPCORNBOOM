@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);见到你很高兴!;test&center=true&size=27&color=5197AB)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&width=512&lines=Trace.WriteLine(%22Hello%20There%22);见到你很高兴!;"10000"[0];万里挑一&center=true&size=27&color=5197AB)](https://git.io/typing-svg)
   <div align="center">
     <a href="https://popcornboom.github.io/"><img src="https://img.shields.io/badge/Website-博客-blue" alt="个人博客" /></a>&emsp;
     <a href="https://space.bilibili.com/271218438"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" alt="B站主页" /></a>&emsp;
@@ -8,7 +8,9 @@
   </div>
 </div>
 
-# Hello
+<h1>Hello</h1>
+
+<img width="200%" src="https://cdn.jsdelivr.net/gh/POPCORNBOOM/POPCORNBOOM/assets/images/hr.gif" />
 
 ### 🤺 关于我
 
@@ -41,17 +43,15 @@
 | 高二 | [三面骰模拟统计器](https://github.com/POPCORNBOOM/3SidedDice-Coin-with-Unity3D) | IYPT竞赛团队模拟演示软件 | Unity3D、C# |
 | 初二 | 应变片测算控制器界面 | 为控制器设计前端交互界面 | Winform |
 
-### 💻 技术栈
+### 💻 技术栈与工具
 
 <div align="center">
   
-<p>🥰 掌握</p>
-  
-![C#](https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white&style=for-the-badge)
+![C#](https://img.shields.io/badge/🔥-掌握-white?labelColor=red&style=for-the-badge)&emsp;
+![C#](https://img.shields.io/badge/C%23-512BD4?logo=dotnet&logoColor=white&style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
 
-<p>📖 学习中</p>
-
+![C#](https://img.shields.io/badge/📖-学习中-white?labelColor=green&style=for-the-badge)&emsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge)
@@ -59,43 +59,46 @@
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=white&style=for-the-badge)
 ![Vuetify](https://img.shields.io/badge/vuetify-1867C0?logo=vuetify&logoColor=white&style=for-the-badge)
 
-<p>📅 计划中</p>
-
+![C#](https://img.shields.io/badge/📅-计划学习-white?labelColor=blue&style=for-the-badge)&emsp;
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
 
 </div>
 
-### 🔧 工具
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=visualstudio,vscode,dotnet,cs,py,ts,js,html,css,nodejs,npm,vue,vuetify,vite,pinia,latex,tauri,rust,vercel,blender,unity,godot,unreal,obsidian,github,md,pytorch,androidstudio,java,arduino,raspberrypi,anaconda,discord,react,flutter,docker,postman,powershell,windows,apple&perline=8&theme=light" alt="技术图标" />
+</div>
+<img width="200%" src="https://cdn.jsdelivr.net/gh/POPCORNBOOM/POPCORNBOOM/assets/images/hr.gif" />
+
+### 👥 关注
+
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=visualstudio,dotnet,cs,opencv,vscode,py,pytorch,blender,unity,js,github,react,md" alt="技术图标" />
+  <img src="https://cdn.jsdelivr.net/gh/POPCORNBOOM/POPCORNBOOM/github-metrics/people.followers.svg" alt="people.followers" />
 </div>
+<img width="200%" src="https://cdn.jsdelivr.net/gh/POPCORNBOOM/POPCORNBOOM/assets/images/hr.gif" />
 
 ### 📊 GitHub 统计
 
-<div>
-<img align="left" width="150" src="https://cdn.jsdelivr.net/gh/POPCORNBOOM/POPCORNBOOM/assets/images/left.png" />
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=POPCORNBOOM&theme=dark&hide_border=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=POPCORNBOOM&theme=light&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=POPCORNBOOM&theme=dark&hide_border=true" />
-</picture>
-<img align="right" width="150"  src="https://cdn.jsdelivr.net/gh/POPCORNBOOM/POPCORNBOOM/assets/images/right.png" />
-
-<img src="https://cdn.jsdelivr.net/gh/POPCORNBOOM/POPCORNBOOM/github-metrics/base.svg" />
-</div>
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=POPCORNBOOM&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" alt="GitHub奖杯" /><br><br>
+  <img align="left" width="150" src="https://cdn.jsdelivr.net/gh/POPCORNBOOM/POPCORNBOOM/assets/images/left.png" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=POPCORNBOOM&theme=dark&hide_border=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=POPCORNBOOM&theme=light&hide_border=true" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=POPCORNBOOM&theme=dark&hide_border=true" />
+  </picture>
+  <img align="right" width="150"  src="https://cdn.jsdelivr.net/gh/POPCORNBOOM/POPCORNBOOM/assets/images/right.png" />
 </div>
 
+<br/>
+  
+<div align="center">
+  <img align="left" width="150" src="https://cdn.jsdelivr.net/gh/POPCORNBOOM/POPCORNBOOM/assets/images/left.png" />
+  <img src="https://github-profile-trophy.vercel.app/?username=POPCORNBOOM&theme=gruvbox&row=2&column=3&no-frame=true&no-bg=true" alt="GitHub奖杯" />
+  <img align="right" width="150"  src="https://cdn.jsdelivr.net/gh/POPCORNBOOM/POPCORNBOOM/assets/images/right.png" />
+</div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/POPCORNBOOM/POPCORNBOOM/profile-3d-contrib/profile-night-rainbow.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/POPCORNBOOM/POPCORNBOOM/profile-3d-contrib/profile-gitblock.svg" />
-  <img src="https://cdn.jsdelivr.net/gh/POPCORNBOOM/POPCORNBOOM/profile-3d-contrib/profile-night-rainbow.svg" />
-</picture>
+<img width="200%" src="https://cdn.jsdelivr.net/gh/POPCORNBOOM/POPCORNBOOM/assets/images/hr.gif" />
 
-<img src="https://cdn.jsdelivr.net/gh/POPCORNBOOM/POPCORNBOOM/github-metrics/people.followers.svg" alt="people.followers" />
 
 <table>
   <tr>
