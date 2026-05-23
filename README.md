@@ -1,6 +1,15 @@
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&width=512&lines=Trace.WriteLine(%22Hello%20There%22);见到你很高兴!;"10000"[0];万里挑一&center=true&size=27&color=5197AB)](https://git.io/typing-svg)
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/POPCORNBOOM/POPCORNBOOM/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/POPCORNBOOM/POPCORNBOOM/profile-snake-contrib/github-contribution-grid-snake.svg" />
+    <img src="https://cdn.jsdelivr.net/gh/POPCORNBOOM/POPCORNBOOM/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+  </picture>
+</div>
+
   <div align="center">
     <!--<a href="https://popcornboom.github.io/"><img src="https://img.shields.io/badge/Website-博客-blue" alt="个人博客" /></a>&emsp;--><br/>
     <a href="mailto:2602977906@qq.com"><img src="https://img.shields.io/badge/Email-邮箱-red" alt="邮箱联系" /></a>&emsp;
