@@ -14,7 +14,7 @@
 
 ### 🤺 关于我
 
-<img align="right" width="120" src="https://popcornboom.github.io/images/1.jpg" alt="个人头像"/>
+<img align="right" width="120" src="https://cdn.jsdelivr.net/gh/POPCORNBOOM/POPCORNBOOM/assets/images/head.webp" alt="个人头像"/>
 
 <p>&emsp;&emsp;哈咯！我是 Yigu Wang，欢迎来到我的个人Profile！</p>
 
