@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" width="100%" alt="编程动画" /><br>  
+  <img src="https://cdn.jsdelivr.net/gh/POPCORNBOOM/POPCORNBOOM/assets/images/coding.gif" width="100%" alt="编程动画" /><br>  
   <h1>🙋 你好，我是 Yigu Wang (POPCORNBOOM)</h1>
   <div align="center">
     <a href="https://popcornboom.github.io/"><img src="https://img.shields.io/badge/Website-博客-blue" alt="个人博客" /></a>&emsp;
@@ -95,23 +95,23 @@
 
 <table>
   <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/github-metrics/languages.indepth.svg" alt="languages.indepth" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/github-metrics/reactions.svg" alt="reactions" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/POPCORNBOOM/POPCORNBOOM/github-metrics/languages.indepth.svg" alt="languages.indepth" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/POPCORNBOOM/POPCORNBOOM/github-metrics/reactions.svg" alt="reactions" /></td>
   </tr>
   <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/github-metrics/followup.indepth.svg" alt="followup.indepth" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/github-metrics/repositories.pinned.svg" alt="repositories.pinned" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/POPCORNBOOM/POPCORNBOOM/github-metrics/followup.indepth.svg" alt="followup.indepth" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/POPCORNBOOM/POPCORNBOOM/github-metrics/repositories.pinned.svg" alt="repositories.pinned" /></td>
   </tr>
   <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/github-metrics/wakatime.svg" alt="wakatime" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/github-metrics/stackoverflow.svg" alt="stackoverflow" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/POPCORNBOOM/POPCORNBOOM/github-metrics/wakatime.svg" alt="wakatime" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/POPCORNBOOM/POPCORNBOOM/github-metrics/stackoverflow.svg" alt="stackoverflow" /></td>
   </tr>
   <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/github-metrics/stars.svg" alt="stars" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/github-metrics/stargazers.chartist.svg" alt="stargazers.chartist" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/POPCORNBOOM/POPCORNBOOM/github-metrics/stars.svg" alt="stars" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/POPCORNBOOM/POPCORNBOOM/github-metrics/stargazers.chartist.svg" alt="stargazers.chartist" /></td>
   </tr>
   <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/github-metrics/isocalendar.fullyear.svg" alt="isocalendar.fullyear" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/github-metrics/calendar.full.svg" alt="calendar.full" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/POPCORNBOOM/POPCORNBOOM/github-metrics/isocalendar.fullyear.svg" alt="isocalendar.fullyear" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/POPCORNBOOM/POPCORNBOOM/github-metrics/calendar.full.svg" alt="calendar.full" /></td>
   </tr>
 </table>
