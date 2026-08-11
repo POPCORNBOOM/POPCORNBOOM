@@ -67,13 +67,15 @@
 
 | 时间段 | 项目 | 描述 | 技术栈 |
 | --- | --- | --- | --- |
-| 大三 | [Parallaxer多屏映射管理器](https://github.com/POPCORNBOOM/Parallaxer) | 为视差显示器或其他需要多显示器同步展示影像的场景提供屏幕组配置、播放列表管理等一体化解决方案 | Tauri、Vue |
-| 大二 | [EZHolo简单刮擦](https://github.com/POPCORNBOOM/EZHolodotNet) | 基于深度估算从平面图像创建刮擦全息路径的工具 | C#、WPF、OnnxRuntime |
-| 高三-大二 | [EzCard](https://github.com/POPCORNBOOM/EZCardDN-demo) | 为桌游开发者服务的集成开发器 | C#、WPF |
+| 2026 | [Parallaxer多屏映射管理器](https://github.com/POPCORNBOOM/Parallaxer) | 为视差显示器或其他需要多显示器同步展示影像的场景提供屏幕组配置、播放列表管理等一体化解决方案 | Tauri、Vue |
+| 2025 | [EZHolo简单刮擦](https://github.com/POPCORNBOOM/EZHolodotNet) | 基于深度估算从平面图像创建刮擦全息路径的工具 | C#、WPF、OnnxRuntime |
+| 2023-2025 | [EzCard](https://github.com/POPCORNBOOM/EZCardDN-demo) | 为桌游开发者服务的集成开发器 | C#、WPF |
 | 高三 | [M维超立方体计算器](https://github.com/POPCORNBOOM/High-DimensionalHypercubeCalculator) | 推导M维超立方体中含有N维超立方体个数 | C#、WPF |
 | 高二-高三 | [CardEditor](https://github.com/POPCORNBOOM/CardEditor) | EZCard前身，批量卡牌生成器 | C#、Winform |
-| 高二 | [逆时巫师官网](https://www.reversewizard.site/) | 为深圳中学自制桌游构建的官方网站 | html、Jekyll |
+| 高二 | BrickComBreaker | 针对BrickCom摄像头的局域网扫网、批量化弱密码破解、后门用户部署与提权工具 | C#、Winform |
+| 高二 | [逆时巫师官网](https://www.reversewizard.site/) | 为深圳中学自制桌游《逆时巫师》构建的官方网站 | html、Jekyll |
 | 高二 | [三面骰模拟统计器](https://github.com/POPCORNBOOM/3SidedDice-Coin-with-Unity3D) | IYPT竞赛团队模拟演示软件 | Unity3D、C# |
+| 初二 | PopCam | 为 Win 7 服务的多功能相机软件 | Unity3D、C# |
 | 初二 | 应变片测算控制器界面 | 为控制器设计前端交互界面 | Winform |
 
 ### 💻 技术栈与工具
