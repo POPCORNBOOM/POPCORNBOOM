@@ -67,6 +67,7 @@
 
 | 时间段 | 项目 | 描述 | 技术栈 |
 | --- | --- | --- | --- |
+| 2026 | [OpenCard 桌游工作台](https://github.com/POPCORNBOOM/OpenCard) | 集成化桌游开发工作台。版本管理化的桌游设计、数值调整、卡牌排版、本地测试、版本发布集成一体化工具 | Tauri、Vue |
 | 2026 | [Parallaxer多屏映射管理器](https://github.com/POPCORNBOOM/Parallaxer) | 为视差显示器或其他需要多显示器同步展示影像的场景提供屏幕组配置、播放列表管理等一体化解决方案 | Tauri、Vue |
 | 2025 | [EZHolo简单刮擦](https://github.com/POPCORNBOOM/EZHolodotNet) | 基于深度估算从平面图像创建刮擦全息路径的工具 | C#、WPF、OnnxRuntime |
 | 2023-2025 | [EzCard](https://github.com/POPCORNBOOM/EZCardDN-demo) | 为桌游开发者服务的集成开发器 | C#、WPF |
